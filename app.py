@@ -1,1 +1,1 @@
-edited
+print edited
