@@ -1,1 +1,1 @@
-# Hello, This is my sample repository
+# we got github practice before gta vi
